@@ -1,8 +1,5 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
 ---
 <section>
     <header>
@@ -34,9 +31,9 @@ layout: home
             <tr>
                 <td>Where?</td>
                 <td>
-                    The address<br />
-                    Which can be multi<br />
-                    Lines<br />
+                    Stadium Place Aoyama 8th Floor<br />
+                    Minami Aoyama 2-95<br />
+                    <i class="fa fa-map-marker" aria-hidden="true"></i> <a target="_blank" href="https://www.google.co.jp/maps/place/%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E9%9D%92%E5%B1%B1/@35.6737448,139.716519,16.52z/data=!4m5!3m4!1s0x0:0x54037e74b8562e02!8m2!3d35.6719487!4d139.7166869">Map</a><br />
                 </td>
             </tr>
         </tbody>
